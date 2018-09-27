@@ -106,3 +106,4 @@ http://php.net/manual/en/function.preg-match.php
 - Envie seu código mesmo que não esteja completamente funcional. Comente suas dificuldades no código. Vamos levar em conta todo o seu esforço.
 - A atividade é aberta à sua interpretação e melhoria. Se algo não ficou claro, você pode fazer como entendeu e comentar no seu código, assim como utilizar outras ferramentas mais complexas.
 - Entregue seu código em um repositório público do GitHub e nos mande o link. Faça commits pequenos mostrando o quanto você caminhou.
+- Essas duas páginas já estão disponíveis no Pixcreen. Você pode se cadastrar e usá-las como inspiração.
